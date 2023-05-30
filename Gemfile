@@ -35,4 +35,4 @@ group :test do
   gem "rspec"
 end
 
-
+gem 'ffi', '~> 1.15.0'
